@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @newtoncleber
-- 👀 I’m interested in Reactjs, Nextjs, Laravel PHP... 
+- 👀 I’m interested in Reactjs, Nextjs, Laravel PHP, Livewire, Inertia.js... 
 - 📫 How to reach me: newtoncleber@gmail.com
 
 <!---
